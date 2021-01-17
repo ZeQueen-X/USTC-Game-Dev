@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Coding_Workspace\Projects for VS\Game_Dev_1.0\main.cpp(241,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Coding_Workspace\Projects for VS\Game_Dev_1.0\main.cpp(455,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Coding_Workspace\Projects for VS\Game_Dev_1.0\main.cpp(571,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Coding_Workspace\Projects for VS\Game_Dev_1.0\main.cpp(604,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Coding_Workspace\Projects for VS\Game_Dev_1.0\main.cpp(599): warning C4715: “bullet”: 不是所有的控件路径都返回值
+  Game_Dev_1.0.vcxproj -> E:\Coding_Workspace\Projects for VS\Game_Dev_1.0\x64\Debug\Game_Dev_1.0.exe
